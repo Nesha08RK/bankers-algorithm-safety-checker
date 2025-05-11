@@ -41,7 +41,8 @@
 
 
 HTML: Defines the structure of the web interface.
-
+ **website link**
+ https://nesha08rk.github.io/bankers-algorithm-safety-checker/
 
 
 JavaScript: Implements the Banker's Algorithm, dynamic UI generation, and real-time calculations.
